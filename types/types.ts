@@ -1,0 +1,15 @@
+export enum EInputType {
+    TICKETNAME = 'ticketName',
+    DESCRIPTION = 'description',
+    EVENTGROUP = 'eventCategory',
+    PRICECATEGORY = 'priceCategory',
+    TICKETCOST = 'ticketCost',
+    TICKETMEDIA = 'ticketMedia',
+    BANNER = 'banner',
+    QUANTITY = 'quantity',
+    LOCATION = 'location',
+    EVENTDATE = 'eventDate',
+    EVENTTIME = 'eventTime',
+    ROYALTIES = 'royalties',
+    SPLITREVENUE = 'splitRevenue',
+}
